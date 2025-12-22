@@ -1,0 +1,31 @@
+# PyTorch & CUDA 11.8 Support
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.2.1+cu118
+torchvision==0.17.1+cu118
+torchaudio==2.2.1+cu118
+
+# Core Medical Deep Learning Frameworks
+monai==1.4.0
+nnunetv2==2.5.1
+
+# Model Architecture Dependencies
+timm==1.0.15
+einops==0.8.0
+torch-flops==0.3.6
+
+# Medical Image IO & Processing
+nibabel==5.3.2
+SimpleITK==2.4.0
+dicom2nifti==2.5.0
+batchgenerators==0.25.1
+acvl-utils==0.2.2
+
+# Data Science & Visualization
+numpy==1.26.3
+pandas==2.2.3
+scikit-learn==1.5.2
+scikit-image==0.24.0
+scipy==1.14.1
+matplotlib==3.9.2
+tqdm==4.65.2
+graphviz==0.20.3
