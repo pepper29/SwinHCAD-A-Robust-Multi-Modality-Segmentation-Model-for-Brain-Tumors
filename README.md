@@ -15,7 +15,7 @@ By dynamically recalibrating feature responses across different modalities (T1, 
 
 ### 🏗️ Architecture
 <p align="center">
-  <img src="assets/fig1_swinhcad.png" alt="SwinHCAD Architecture" width="95%"/>
+  <img src="total framework.png" alt="SwinHCAD Architecture" width="95%"/>
   <br>
   <em>Figure 1: Overview of the SwinHCAD architecture.</em>
 </p>
